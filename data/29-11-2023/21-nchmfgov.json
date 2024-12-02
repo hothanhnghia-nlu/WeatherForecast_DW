@@ -1,0 +1,821 @@
+[
+  {
+    "province": "Lai Châu",
+    "temperature": "18°C",
+    "weather": "Đêm có mây",
+    "humidity": "78",
+    "T": [
+      "23°C",
+      "22°C",
+      "21°C",
+      "22°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Điện Biên",
+    "temperature": "21°C",
+    "weather": "Đêm có mây",
+    "humidity": "79",
+    "T": [
+      "27°C",
+      "26°C",
+      "26°C",
+      "27°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Sơn La",
+    "temperature": "0°C",
+    "weather": "Đêm có mây",
+    "humidity": "0",
+    "T": [
+      "25°C",
+      "23°C",
+      "21°C",
+      "23°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Hòa Bình",
+    "temperature": "23°C",
+    "weather": "Đêm có mây",
+    "humidity": "84",
+    "T": [
+      "27°C",
+      "22°C",
+      "23°C",
+      "25°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Lào Cai",
+    "temperature": "22°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "74",
+    "T": [
+      "27°C",
+      "23°C",
+      "23°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Yên Bái",
+    "temperature": "23°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "88",
+    "T": [
+      "27°C",
+      "22°C",
+      "21°C",
+      "23°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Hà Giang",
+    "temperature": "20°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "87",
+    "T": [
+      "27°C",
+      "23°C",
+      "22°C",
+      "23°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Tuyên Quang",
+    "temperature": "22°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "81",
+    "T": [
+      "28°C",
+      "22°C",
+      "21°C",
+      "23°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Bắc cạn",
+    "temperature": "21°C",
+    "weather": "Đêm có mây",
+    "humidity": "86",
+    "T": [
+      "26°C",
+      "20°C",
+      "20°C",
+      "22°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Thái Nguyên",
+    "temperature": "23°C",
+    "weather": "Đêm có mây",
+    "humidity": "79",
+    "T": [
+      "27°C",
+      "21°C",
+      "22°C",
+      "24°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Phú Thọ",
+    "temperature": "23°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "71",
+    "T": [
+      "27°C",
+      "21°C",
+      "21°C",
+      "24°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Vĩnh Phúc",
+    "temperature": "24°C",
+    "weather": "Đêm có mây",
+    "humidity": "76",
+    "T": [
+      "27°C",
+      "21°C",
+      "21°C",
+      "24°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Cao Bằng",
+    "temperature": "20°C",
+    "weather": "Đêm có mây",
+    "humidity": "87",
+    "T": [
+      "26°C",
+      "20°C",
+      "20°C",
+      "23°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Lạng Sơn",
+    "temperature": "22°C",
+    "weather": "Đêm có mây",
+    "humidity": "86",
+    "T": [
+      "27°C",
+      "21°C",
+      "22°C",
+      "25°C",
+      "23°C"
+    ]
+  },
+  {
+    "province": "Quảng Ninh",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "80",
+    "T": [
+      "26°C",
+      "21°C",
+      "22°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Bắc Giang",
+    "temperature": "24°C",
+    "weather": "Đêm có mây",
+    "humidity": "68",
+    "T": [
+      "27°C",
+      "20°C",
+      "21°C",
+      "24°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Bắc Ninh",
+    "temperature": "25°C",
+    "weather": "Đêm có mây",
+    "humidity": "78",
+    "T": [
+      "28°C",
+      "21°C",
+      "22°C",
+      "25°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Hải Phòng",
+    "temperature": "23°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "89",
+    "T": [
+      "27°C",
+      "22°C",
+      "23°C",
+      "25°C",
+      "26°C"
+    ]
+  },
+  {
+    "province": "Hà Nội",
+    "temperature": "24°C",
+    "weather": "Đêm có mây",
+    "humidity": "78",
+    "T": [
+      "27°C",
+      "21°C",
+      "22°C",
+      "24°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Hải Dương",
+    "temperature": "25°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "75",
+    "T": [
+      "27°C",
+      "21°C",
+      "22°C",
+      "24°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Hưng Yên",
+    "temperature": "25°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "79",
+    "T": [
+      "28°C",
+      "22°C",
+      "23°C",
+      "25°C",
+      "26°C"
+    ]
+  },
+  {
+    "province": "Nam Định",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "87",
+    "T": [
+      "27°C",
+      "21°C",
+      "22°C",
+      "24°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Hà Nam",
+    "temperature": "25°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "81",
+    "T": [
+      "27°C",
+      "21°C",
+      "21°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Ninh Bình",
+    "temperature": "25°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "83",
+    "T": [
+      "27°C",
+      "21°C",
+      "21°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Thái Bình",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "92",
+    "T": [
+      "26°C",
+      "20°C",
+      "21°C",
+      "23°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Thanh Hóa",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "85",
+    "T": [
+      "27°C",
+      "22°C",
+      "22°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Nghệ An",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "86",
+    "T": [
+      "27°C",
+      "25°C",
+      "23°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Hà Tĩnh",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "83",
+    "T": [
+      "25°C",
+      "24°C",
+      "22°C",
+      "23°C",
+      "24°C"
+    ]
+  },
+  {
+    "province": "Quảng Bình",
+    "temperature": "25°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "74",
+    "T": [
+      "28°C",
+      "26°C",
+      "23°C",
+      "24°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Quảng Trị",
+    "temperature": "23°C",
+    "weather": "Có mưa",
+    "humidity": "90",
+    "T": [
+      "25°C",
+      "24°C",
+      "24°C",
+      "25°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Huế",
+    "temperature": "23°C",
+    "weather": "Đêm có mưa rào",
+    "humidity": "94",
+    "T": [
+      "26°C",
+      "25°C",
+      "25°C",
+      "26°C",
+      "25°C"
+    ]
+  },
+  {
+    "province": "Đà Nẵng",
+    "temperature": "24°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "93",
+    "T": [
+      "28°C",
+      "28°C",
+      "28°C",
+      "28°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Quảng Nam",
+    "temperature": "23°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "100",
+    "T": [
+      "27°C",
+      "27°C",
+      "27°C",
+      "28°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Quảng Ngãi",
+    "temperature": "25°C",
+    "weather": "Có mưa",
+    "humidity": "94",
+    "T": [
+      "28°C",
+      "27°C",
+      "28°C",
+      "28°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Bình Định",
+    "temperature": "26°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "86",
+    "T": [
+      "29°C",
+      "29°C",
+      "29°C",
+      "29°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "Phú Yên",
+    "temperature": "27°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "89",
+    "T": [
+      "30°C",
+      "31°C",
+      "30°C",
+      "31°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Khánh Hòa",
+    "temperature": "28°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "90",
+    "T": [
+      "30°C",
+      "30°C",
+      "29°C",
+      "29°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "Ninh Thuận",
+    "temperature": "28°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "86",
+    "T": [
+      "31°C",
+      "31°C",
+      "31°C",
+      "30°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Bình Thuận",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "82",
+    "T": [
+      "32°C",
+      "31°C",
+      "31°C",
+      "30°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "Kon Tum",
+    "temperature": "26°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "75",
+    "T": [
+      "29°C",
+      "28°C",
+      "28°C",
+      "28°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Gia Lai",
+    "temperature": "23°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "85",
+    "T": [
+      "28°C",
+      "28°C",
+      "28°C",
+      "27°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Đắc Lăk",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "90",
+    "T": [
+      "28°C",
+      "28°C",
+      "28°C",
+      "27°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Đắc Nông",
+    "temperature": "24°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "83",
+    "T": [
+      "29°C",
+      "29°C",
+      "29°C",
+      "28°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Lâm Đồng",
+    "temperature": "18°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "91",
+    "T": [
+      "27°C",
+      "27°C",
+      "27°C",
+      "25°C",
+      "26°C"
+    ]
+  },
+  {
+    "province": "Bình Phước",
+    "temperature": "27°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "94",
+    "T": [
+      "31°C",
+      "30°C",
+      "30°C",
+      "28°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "Tây Ninh",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "83",
+    "T": [
+      "34°C",
+      "33°C",
+      "32°C",
+      "31°C",
+      "32°C"
+    ]
+  },
+  {
+    "province": "Đồng Nai",
+    "temperature": "31°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "65",
+    "T": [
+      "34°C",
+      "33°C",
+      "33°C",
+      "32°C",
+      "32°C"
+    ]
+  },
+  {
+    "province": "Bình Dương",
+    "temperature": "30°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "76",
+    "T": [
+      "34°C",
+      "34°C",
+      "34°C",
+      "32°C",
+      "33°C"
+    ]
+  },
+  {
+    "province": "Hồ Chí Minh",
+    "temperature": "29°C",
+    "weather": "Đêm có mưa rào",
+    "humidity": "84",
+    "T": [
+      "32°C",
+      "31°C",
+      "31°C",
+      "30°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "BR-Vũng Tàu",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "77",
+    "T": [
+      "33°C",
+      "33°C",
+      "33°C",
+      "31°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Long An",
+    "temperature": "30°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "71",
+    "T": [
+      "33°C",
+      "32°C",
+      "32°C",
+      "30°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Tiền Giang",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "88",
+    "T": [
+      "33°C",
+      "32°C",
+      "32°C",
+      "30°C",
+      "32°C"
+    ]
+  },
+  {
+    "province": "Vĩnh Long",
+    "temperature": "28°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "87",
+    "T": [
+      "32°C",
+      "31°C",
+      "31°C",
+      "29°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Bến tre",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "78",
+    "T": [
+      "33°C",
+      "33°C",
+      "33°C",
+      "31°C",
+      "32°C"
+    ]
+  },
+  {
+    "province": "Đồng Tháp",
+    "temperature": "28°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "77",
+    "T": [
+      "30°C",
+      "30°C",
+      "30°C",
+      "28°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Trà Vinh",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "77",
+    "T": [
+      "34°C",
+      "34°C",
+      "33°C",
+      "31°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "An Giang",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "77",
+    "T": [
+      "33°C",
+      "33°C",
+      "33°C",
+      "31°C",
+      "31°C"
+    ]
+  },
+  {
+    "province": "Cần Thơ",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "77",
+    "T": [
+      "32°C",
+      "32°C",
+      "32°C",
+      "29°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Hậu Giang",
+    "temperature": "28°C",
+    "weather": "Nhiều mây, không mưa",
+    "humidity": "80",
+    "T": [
+      "29°C",
+      "30°C",
+      "29°C",
+      "28°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Sóc Trăng",
+    "temperature": "28°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "80",
+    "T": [
+      "32°C",
+      "33°C",
+      "32°C",
+      "31°C",
+      "30°C"
+    ]
+  },
+  {
+    "province": "Kiên Giang",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "79",
+    "T": [
+      "30°C",
+      "29°C",
+      "30°C",
+      "28°C",
+      "28°C"
+    ]
+  },
+  {
+    "province": "Bạc Liêu",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "81",
+    "T": [
+      "31°C",
+      "32°C",
+      "30°C",
+      "29°C",
+      "29°C"
+    ]
+  },
+  {
+    "province": "Cà Mau",
+    "temperature": "29°C",
+    "weather": "Đêm nhiều mây",
+    "humidity": "78",
+    "T": [
+      "29°C",
+      "29°C",
+      "29°C",
+      "28°C",
+      "28°C"
+    ]
+  }
+]

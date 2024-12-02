@@ -1,0 +1,821 @@
+[
+  {
+    "province": "Hà Giang",
+    "temperature": 17,
+    "weather": "Bầu trời quang đãng",
+    "humidity": "52",
+    "T": [
+      19,
+      20,
+      18,
+      20,
+      21
+    ]
+  },
+  {
+    "province": "Cao Bằng",
+    "temperature": 14,
+    "weather": "Bầu trời quang đãng",
+    "humidity": "39",
+    "T": [
+      18,
+      21,
+      19,
+      21,
+      23
+    ]
+  },
+  {
+    "province": "Bắc Kạn",
+    "temperature": 16,
+    "weather": "Mây thưa",
+    "humidity": "43",
+    "T": [
+      18,
+      21,
+      18,
+      21,
+      23
+    ]
+  },
+  {
+    "province": "Tuyên Quang",
+    "temperature": 16,
+    "weather": "Mây thưa",
+    "humidity": "48",
+    "T": [
+      20,
+      21,
+      19,
+      23,
+      24
+    ]
+  },
+  {
+    "province": "Thái Nguyên",
+    "temperature": 16,
+    "weather": "Mây cụm",
+    "humidity": "38",
+    "T": [
+      19,
+      20,
+      19,
+      23,
+      24
+    ]
+  },
+  {
+    "province": "Lạng Sơn",
+    "temperature": 12,
+    "weather": "Mây cụm",
+    "humidity": "43",
+    "T": [
+      15,
+      18,
+      18,
+      20,
+      21
+    ]
+  },
+  {
+    "province": "Quảng Ninh",
+    "temperature": 16,
+    "weather": "Mây thưa",
+    "humidity": "45",
+    "T": [
+      18,
+      20,
+      19,
+      20,
+      22
+    ]
+  },
+  {
+    "province": "Bắc Giang",
+    "temperature": 15,
+    "weather": "Mây cụm",
+    "humidity": "37",
+    "T": [
+      18,
+      21,
+      19,
+      21,
+      24
+    ]
+  },
+  {
+    "province": "Phú Thọ",
+    "temperature": 18,
+    "weather": "Mây cụm",
+    "humidity": "50",
+    "T": [
+      20,
+      21,
+      21,
+      21,
+      23
+    ]
+  },
+  {
+    "province": "Lào Cai",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "83",
+    "T": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Điện Biên",
+    "temperature": 19,
+    "weather": "Nhiều mây",
+    "humidity": "69",
+    "T": [
+      20,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "province": "Lai Châu",
+    "temperature": 16,
+    "weather": "Nhiều mây",
+    "humidity": "79",
+    "T": [
+      19,
+      23,
+      23,
+      23,
+      23
+    ]
+  },
+  {
+    "province": "Sơn La",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "70",
+    "T": [
+      17,
+      19,
+      20,
+      21,
+      21
+    ]
+  },
+  {
+    "province": "Yên Bái",
+    "temperature": 17,
+    "weather": "Mây rải rác",
+    "humidity": "55",
+    "T": [
+      19,
+      19,
+      19,
+      21,
+      21
+    ]
+  },
+  {
+    "province": "Hoà Bình",
+    "temperature": 17,
+    "weather": "Mây cụm",
+    "humidity": "46",
+    "T": [
+      18,
+      20,
+      19,
+      21,
+      23
+    ]
+  },
+  {
+    "province": "Hà Nội",
+    "temperature": 16,
+    "weather": "Bầu trời quang đãng",
+    "humidity": "41",
+    "T": [
+      20,
+      20,
+      20,
+      21,
+      23
+    ]
+  },
+  {
+    "province": "Vĩnh Phúc",
+    "temperature": 15,
+    "weather": "Mây cụm",
+    "humidity": "41",
+    "T": [
+      19,
+      20,
+      19,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Bắc Ninh",
+    "temperature": 15,
+    "weather": "Mây cụm",
+    "humidity": "36",
+    "T": [
+      19,
+      21,
+      19,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Hải Dương",
+    "temperature": 14,
+    "weather": "Mây rải rác",
+    "humidity": "39",
+    "T": [
+      20,
+      21,
+      20,
+      22,
+      24
+    ]
+  },
+  {
+    "province": "Hải Phòng",
+    "temperature": 16,
+    "weather": "Bầu trời quang đãng",
+    "humidity": "38",
+    "T": [
+      20,
+      20,
+      19,
+      22,
+      22
+    ]
+  },
+  {
+    "province": "Hưng Yên",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "41",
+    "T": [
+      20,
+      21,
+      18,
+      23,
+      24
+    ]
+  },
+  {
+    "province": "Thái Bình",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "47",
+    "T": [
+      18,
+      18,
+      18,
+      20,
+      23
+    ]
+  },
+  {
+    "province": "Hà Nam",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "41",
+    "T": [
+      20,
+      21,
+      19,
+      23,
+      23
+    ]
+  },
+  {
+    "province": "Nam Định",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "46",
+    "T": [
+      20,
+      20,
+      19,
+      21,
+      24
+    ]
+  },
+  {
+    "province": "Ninh Bình",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "45",
+    "T": [
+      19,
+      19,
+      18,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Thanh Hóa",
+    "temperature": 16,
+    "weather": "Nhiều mây",
+    "humidity": "47",
+    "T": [
+      18,
+      17,
+      18,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Nghệ An",
+    "temperature": 16,
+    "weather": "Nhiều mây",
+    "humidity": "68",
+    "T": [
+      17,
+      17,
+      17,
+      19,
+      20
+    ]
+  },
+  {
+    "province": "Hà Tĩnh",
+    "temperature": 15,
+    "weather": "Nhiều mây",
+    "humidity": "77",
+    "T": [
+      17,
+      15,
+      17,
+      20,
+      18
+    ]
+  },
+  {
+    "province": "Quảng Bình",
+    "temperature": 14,
+    "weather": "Nhiều mây",
+    "humidity": "83",
+    "T": [
+      17,
+      15,
+      16,
+      18,
+      17
+    ]
+  },
+  {
+    "province": "Quảng Trị",
+    "temperature": 18,
+    "weather": "Mưa nhẹ",
+    "humidity": "93",
+    "T": [
+      20,
+      19,
+      20,
+      19,
+      19
+    ]
+  },
+  {
+    "province": "Thừa Thiên Huế",
+    "temperature": 18,
+    "weather": "Mưa vừa",
+    "humidity": "94",
+    "T": [
+      19,
+      20,
+      20,
+      19,
+      20
+    ]
+  },
+  {
+    "province": "Đà Nẵng",
+    "temperature": 20,
+    "weather": "Mưa vừa",
+    "humidity": "100",
+    "T": [
+      22,
+      22,
+      22,
+      21,
+      21
+    ]
+  },
+  {
+    "province": "Quảng Nam",
+    "temperature": 23,
+    "weather": "Mưa nhẹ",
+    "humidity": "89",
+    "T": [
+      21,
+      22,
+      21,
+      23,
+      21
+    ]
+  },
+  {
+    "province": "Quảng Ngãi",
+    "temperature": 22,
+    "weather": "Nhiều mây",
+    "humidity": "87",
+    "T": [
+      22,
+      23,
+      22,
+      22,
+      21
+    ]
+  },
+  {
+    "province": "Bình Định",
+    "temperature": 24,
+    "weather": "Nhiều mây",
+    "humidity": "85",
+    "T": [
+      24,
+      24,
+      24,
+      24,
+      24
+    ]
+  },
+  {
+    "province": "Phú Yên",
+    "temperature": 22,
+    "weather": "Nhiều mây",
+    "humidity": "94",
+    "T": [
+      21,
+      22,
+      21,
+      22,
+      22
+    ]
+  },
+  {
+    "province": "Khánh Hòa",
+    "temperature": 27,
+    "weather": "Nhiều mây",
+    "humidity": "92",
+    "T": [
+      24,
+      24,
+      24,
+      23,
+      25
+    ]
+  },
+  {
+    "province": "Ninh Thuận",
+    "temperature": 29,
+    "weather": "Nhiều mây",
+    "humidity": "64",
+    "T": [
+      28,
+      25,
+      25,
+      28,
+      28
+    ]
+  },
+  {
+    "province": "Bình Thuận",
+    "temperature": 32,
+    "weather": "Mây cụm",
+    "humidity": "45",
+    "T": [
+      30,
+      26,
+      30,
+      33,
+      33
+    ]
+  },
+  {
+    "province": "Kon Tum",
+    "temperature": 23,
+    "weather": "Nhiều mây",
+    "humidity": "71",
+    "T": [
+      21,
+      23,
+      22,
+      24,
+      24
+    ]
+  },
+  {
+    "province": "Gia Lai",
+    "temperature": 21,
+    "weather": "Nhiều mây",
+    "humidity": "82",
+    "T": [
+      19,
+      22,
+      21,
+      23,
+      22
+    ]
+  },
+  {
+    "province": "Đắk Lắk",
+    "temperature": 22,
+    "weather": "Nhiều mây",
+    "humidity": "78",
+    "T": [
+      20,
+      20,
+      21,
+      23,
+      22
+    ]
+  },
+  {
+    "province": "Đắk Nông",
+    "temperature": 22,
+    "weather": "Nhiều mây",
+    "humidity": "78",
+    "T": [
+      20,
+      20,
+      20,
+      22,
+      23
+    ]
+  },
+  {
+    "province": "Lâm Đồng",
+    "temperature": 25,
+    "weather": "Nhiều mây",
+    "humidity": "56",
+    "T": [
+      25,
+      22,
+      25,
+      27,
+      28
+    ]
+  },
+  {
+    "province": "Bình Phước",
+    "temperature": 29,
+    "weather": "Mây thưa",
+    "humidity": "59",
+    "T": [
+      29,
+      28,
+      29,
+      31,
+      33
+    ]
+  },
+  {
+    "province": "Tây Ninh",
+    "temperature": 30,
+    "weather": "Nhiều mây",
+    "humidity": "54",
+    "T": [
+      32,
+      28,
+      29,
+      32,
+      34
+    ]
+  },
+  {
+    "province": "Bình Dương",
+    "temperature": 31,
+    "weather": "Mây thưa",
+    "humidity": "51",
+    "T": [
+      33,
+      28,
+      30,
+      32,
+      32
+    ]
+  },
+  {
+    "province": "Đồng Nai",
+    "temperature": 30,
+    "weather": "Mây cụm",
+    "humidity": "54",
+    "T": [
+      34,
+      26,
+      31,
+      33,
+      33
+    ]
+  },
+  {
+    "province": "Bà Rịa - Vũng Tàu",
+    "temperature": 29,
+    "weather": "Mây cụm",
+    "humidity": "56",
+    "T": [
+      32,
+      25,
+      30,
+      32,
+      31
+    ]
+  },
+  {
+    "province": "Hồ Chí Minh",
+    "temperature": 32,
+    "weather": "Mây thưa",
+    "humidity": "51",
+    "T": [
+      34,
+      29,
+      31,
+      32,
+      34
+    ]
+  },
+  {
+    "province": "Long An",
+    "temperature": 31,
+    "weather": "Nhiều mây",
+    "humidity": "54",
+    "T": [
+      32,
+      29,
+      30,
+      32,
+      34
+    ]
+  },
+  {
+    "province": "Tiền Giang",
+    "temperature": 31,
+    "weather": "Nhiều mây",
+    "humidity": "54",
+    "T": [
+      32,
+      28,
+      29,
+      31,
+      34
+    ]
+  },
+  {
+    "province": "Bến Tre",
+    "temperature": 30,
+    "weather": "Nhiều mây",
+    "humidity": "54",
+    "T": [
+      32,
+      27,
+      30,
+      31,
+      34
+    ]
+  },
+  {
+    "province": "Trà Vinh",
+    "temperature": 30,
+    "weather": "Nhiều mây",
+    "humidity": "57",
+    "T": [
+      33,
+      26,
+      29,
+      31,
+      32
+    ]
+  },
+  {
+    "province": "Vĩnh Long",
+    "temperature": 27,
+    "weather": "Nhiều mây",
+    "humidity": "58",
+    "T": [
+      32,
+      28,
+      28,
+      31,
+      33
+    ]
+  },
+  {
+    "province": "Đồng Tháp",
+    "temperature": 28,
+    "weather": "Mây cụm",
+    "humidity": "56",
+    "T": [
+      31,
+      30,
+      30,
+      32,
+      33
+    ]
+  },
+  {
+    "province": "An Giang",
+    "temperature": 28,
+    "weather": "Mây rải rác",
+    "humidity": "56",
+    "T": [
+      31,
+      29,
+      31,
+      30,
+      33
+    ]
+  },
+  {
+    "province": "Kiên Giang",
+    "temperature": 28,
+    "weather": "Nhiều mây",
+    "humidity": "61",
+    "T": [
+      31,
+      28,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "province": "Cần Thơ",
+    "temperature": 28,
+    "weather": "Bầu trời quang đãng",
+    "humidity": "74",
+    "T": [
+      32,
+      29,
+      30,
+      32,
+      32
+    ]
+  },
+  {
+    "province": "Hậu Giang",
+    "temperature": 27,
+    "weather": "Mây cụm",
+    "humidity": "61",
+    "T": [
+      31,
+      27,
+      28,
+      31,
+      31
+    ]
+  },
+  {
+    "province": "Sóc Trăng",
+    "temperature": 30,
+    "weather": "Nhiều mây",
+    "humidity": "64",
+    "T": [
+      32,
+      27,
+      28,
+      30,
+      31
+    ]
+  },
+  {
+    "province": "Bạc Liêu",
+    "temperature": 29,
+    "weather": "Nhiều mây",
+    "humidity": "68",
+    "T": [
+      30,
+      27,
+      28,
+      30,
+      30
+    ]
+  },
+  {
+    "province": "Cà Mau",
+    "temperature": 29,
+    "weather": "Mây cụm",
+    "humidity": "56",
+    "T": [
+      31,
+      29,
+      27,
+      31,
+      33
+    ]
+  }
+]
